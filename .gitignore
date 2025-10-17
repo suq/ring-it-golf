@@ -17,3 +17,4 @@
 *.log
 *.tmp
 
+arduino_secrets.h
