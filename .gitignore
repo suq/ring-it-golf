@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# IDE/workspace
+.vscode/
+.idea/
+
+# Arduino build outputs (rarely end up in the repo, but safe to ignore)
+*.bin
+*.elf
+*.eep
+*.hex
+*.map
+*.zip
+
+# Misc
+*.log
+*.tmp
+
